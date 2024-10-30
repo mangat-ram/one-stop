@@ -16,7 +16,7 @@ export default function Intro(){
 
   return (
     <section
-      className="-mt-8 mb-28 max-w-[60rem] mx-auto text-center sm:mb-0 font-customPop scroll-mt-[100rem]"
+      className="-mt-8 mb-28 max-w-[60rem] mx-auto text-center sm:mb-0 font-customPop scroll-mt-[100rem] h-screen"
       id="home"
       ref={ref}
     >
