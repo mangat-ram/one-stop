@@ -5,7 +5,7 @@ export const links = [
   },
   {
     name: "About",
-    hash: "#about",
+    hash: "About",
   },
   {
     name: "Blogs",
